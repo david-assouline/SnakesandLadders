@@ -1,7 +1,5 @@
 // -----------------------------------------------------
-// Assignment # 1
-// Part II
-// Written by: David-Raphael Assouline 40082595
+// Written by: David-Raphael Assouline
 // -----------------------------------------------------
 
 /* This program simulates a game of ladders and snakes
