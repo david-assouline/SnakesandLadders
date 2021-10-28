@@ -1,7 +1,5 @@
 // -----------------------------------------------------
-// Assignment # 1
-// Part I
-// Written by: David-Raphael Assouline 40082595
+// Written by: David-Raphael Assouline
 // -----------------------------------------------------
 
 import java.util.ArrayList;
